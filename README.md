@@ -7,4 +7,5 @@ This notebook is a demo looking at the basics of interacting with DICOM files wi
 # Contents
 - Lesson 1: [Introduction to DICOM Files](https://github.com/alasdairrutherford/dicom-demo/blob/main/IntroductionToDICOMFiles.ipynb)
 - Lesson 2: [Viewing DICOM Images](https://github.com/alasdairrutherford/dicom-demo/blob/main/ViewingImages.ipynb)
+- Lesson 3: [Working with Plan objects](https://github.com/alasdairrutherford/dicom-demo/blob/main/InteractingWithRTPlans.ipynb)
 
